@@ -54,8 +54,8 @@ function SignIn() {
 
   return (
     <>
-      <button className="sign-in" onClick={signInWithGoogle}>Anmeldung bei Google</button>
-      <p>Beleidige keine anderen User oder Du wirst gesperrt!</p>
+      <button className="sign-in" onClick={signInWithGoogle}>Anmeldung über Google</button>
+      <p>Seid nett und freundlich zueinander 😊</p>
     </>
   )
 }
